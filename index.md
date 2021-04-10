@@ -8,11 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Pro Git Book Content, 1st Edition - This content is deprecated.
 
 [1. introduction](https://github.com/progit/progit/blob/master/zh/01-introduction/01-chapter1.markdown "introduction")
@@ -34,7 +29,12 @@ Syntax highlighted code block
 [9.git-internals](https://github.com/progit/progit/blob/master/zh/09-git-internals/01-chapter9.markdown "git-internals")
 
 
+```markdown
+Syntax highlighted code block
 
+
+# Header 1
+## Header 2
 
 **Bold** and _Italic_ and `Code` text
 
